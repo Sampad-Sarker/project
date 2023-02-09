@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-
-const jsx = <h1>React 18+</h1>;
+import App from "./App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(jsx);
+root.render(<App />);
