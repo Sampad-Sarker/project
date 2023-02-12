@@ -1,16 +1,8 @@
-.container {
-  display: inline-block;
-  background-color: #5fdbfb;
-  padding: 0.5rem 2rem;
-  text-transform: capitalize;
-  cursor: default;
 
-  /* translate: 11rem 11rem; */
-}
 
 footer {
   text-align: center;
-  margin-top: 80vh;
+/*   margin-top: 80vh; */
 }
 
 /* animation style */
